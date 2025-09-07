@@ -1,6 +1,6 @@
 # 🚀 AI Code Agent with Gemini  
 
-[![Demo](https://img.shields.io/badge/LinkedIn-Post-blue)](https://www.linkedin.com/posts/prince-khunt-linked-in_ai-gemini-bootdev-activity-7370409476878766080-0OVq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJXpcgBb3xziG9Z0MWkOgCAkNf4DfYoc0E)  
+[![Video Demo](https://img.shields.io/badge/LinkedIn-Post-blue)](https://www.linkedin.com/posts/prince-khunt-linked-in_ai-gemini-bootdev-activity-7370409476878766080-0OVq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJXpcgBb3xziG9Z0MWkOgCAkNf4DfYoc0E)  
 
 This project integrates **Gemini’s AI capabilities** to act as an **interactive coding agent**.  
 It goes beyond just answering coding questions — the agent can **create, update, delete, and run code** directly, making development **faster, smarter, and more hands-on**.  
@@ -32,12 +32,3 @@ Together, these tools enable the AI agent to **interact with your project struct
 
 - **`call_function.py`** → Dispatches tasks to the correct function inside `functions`.  
   - Acts as a **router** between user requests and functionality.  
-
----
-
-## 🛠️ Getting Started  
-
-### 1. Clone the Repository  
-```bash
-git clone https://github.com/PrinceKhunt16/AI-Code-Agent-with-Gemini.git
-cd AI-Code-Agent-with-Gemini
